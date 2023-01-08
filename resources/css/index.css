@@ -1,0 +1,39 @@
+body {
+    background-color: floralwhite;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: blue;
+}
+table {
+    border: 2px solid brown;
+    width: 650px;
+    margin: 0 auto
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: darkmagenta;
+}
+
+td {
+    border-top: 1px solid coral;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+    background-color: darkturquoise;
+}
+.code{
+    font-family: monospace;
+    background-color: forestgreen;
+}
